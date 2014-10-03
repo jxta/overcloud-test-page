@@ -4,9 +4,7 @@ overcloud-test-page
 
 Improved Practical Matrix Sketching with Guarantees
 
-Mina Ghashami, Amey Desai, and Jeff M. Phillips
-
-University of Utah
+Mina Ghashami, Amey Desai, and Jeff M. Phillips (University of Utah)
 
 http://www.cs.utah.edu/~jeffp/papers/alpha-FD-ESA14.pdf
 
