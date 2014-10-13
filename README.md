@@ -21,7 +21,7 @@ Click this button to reproduce!
 
 (Paper 2)
 
-[![Deploy](https://dl.dropboxusercontent.com/u/85879/docodemo.png)](http://pc19.utahddc.geniracks.net/cgi-bin/yoko-gui-test.cgi)
+[![Deploy](https://dl.dropboxusercontent.com/u/85879/docodemo.png)](http://pc19.utahddc.geniracks.net/cgi-bin/yoko-gui.cgi)
 Click this button to reproduce!
 
 --------------------------------------
