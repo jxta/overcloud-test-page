@@ -21,6 +21,10 @@ Click this button to reproduce!
 
 (Paper 2)
 
+GUI test 
+
+user:demo/password:demo
+
 [![Deploy](https://dl.dropboxusercontent.com/u/85879/docodemo.png)](http://pc19.utahddc.geniracks.net/cgi-bin/yoko-gui.cgi)
 Click this button to reproduce!
 
