@@ -25,7 +25,7 @@ GUI test
 
 user:demo/password:demo
 
-[![Deploy](https://dl.dropboxusercontent.com/u/85879/docodemo.png)](http://pc31.utahddc.geniracks.net/cgi-bin/yoko-gui.cgi)
+[![Deploy](https://dl.dropboxusercontent.com/u/85879/docodemo.png)](http://pc25.utahddc.geniracks.net/cgi-bin/yoko-gui.cgi)
 Click this button to reproduce!
 
 --------------------------------------
